@@ -9,13 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "leaflet": "^1.9.4",
-    "webllm": "latest"
+    "leaflet": "^1.9.4"
   },
   "devDependencies": {
-    "@sveltejs/adapter-static": "latest",
-    "@sveltejs/kit": "latest",
-    "svelte": "latest",
-    "vite": "latest"
+    "@sveltejs/adapter-static": "2.0.3",
+    "@sveltejs/kit": "2.0.6",
+    "svelte": "4.2.2",
+    "vite": "5.0.8"
   }
 }
