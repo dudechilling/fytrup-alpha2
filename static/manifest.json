@@ -1,0 +1,39 @@
+{
+  "name": "Find Your TRU Path",
+  "short_name": "TRU Path",
+  "id": "/fytrup-alpha2/",
+  "description": "A TRU campus exploration experience with map navigation, geofenced POIs, character dialogue, and on-device chat.",
+  "start_url": "/fytrup-alpha2/",
+  "scope": "/fytrup-alpha2/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#003e51",
+  "theme_color": "#003e51",
+  "icons": [
+    {
+      "src": "/fytrup-alpha2/icons/map/marker-64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "/fytrup-alpha2/icons/map/marker-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/fytrup-alpha2/icons/map/marker-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/fytrup-alpha2/icons/map/marker-384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/fytrup-alpha2/icons/map/marker-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

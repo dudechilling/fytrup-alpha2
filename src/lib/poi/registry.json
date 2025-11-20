@@ -1,0 +1,209 @@
+[
+  {
+    "id": "futureStudentsWelcomeCentre",
+    "name": "Future Students Welcome Centre",
+    "coords": [50.6712223, -120.3656017],
+    "radius": 40,
+    "character": "wolfie",
+    "portrait": "/fytrup-alpha2/characters/wolfie_neutral.png",
+    "intro": "Welcome—your TRU journey starts here."
+  },
+  {
+    "id": "cplulkwten",
+    "name": "Cplul’kw’ten — The Gathering Place",
+    "coords": [50.6706792982108, -120.36548203763114],
+    "radius": 40,
+    "character": "wolfie",
+    "portrait": "/fytrup-alpha2/characters/wolfie_neutral.png",
+    "intro": "A place to ground yourself and feel connected."
+  },
+  {
+    "id": "openLearning",
+    "name": "BC Centre for Open Learning (OLARA)",
+    "coords": [50.66987607492293, -120.36473131436695],
+    "radius": 40,
+    "character": "wolfie",
+    "portrait": "/fytrup-alpha2/characters/wolfie_neutral.png",
+    "intro": "Flexible pathways start here—online, open, accessible."
+  },
+  {
+    "id": "tcc",
+    "name": "Tournament Capital Centre (TCC)",
+    "coords": [50.66900283034373, -120.3648821914328],
+    "radius": 40,
+    "character": "wolfie",
+    "portrait": "/fytrup-alpha2/characters/wolfie_neutral.png",
+    "intro": "Fitness, recreation, and movement—your energy hub."
+  },
+  {
+    "id": "kenLepinScience",
+    "name": "Ken Lepin Science Building (S)",
+    "coords": [50.66895404537998, -120.36192719880228],
+    "radius": 40,
+    "character": "wolfie",
+    "portrait": "/fytrup-alpha2/characters/wolfie_neutral.png",
+    "intro": "Science labs, discovery spaces, and hands-on learning."
+  },
+  {
+    "id": "oldGym",
+    "name": "Gymnasium (Old Gym)",
+    "coords": [50.66928768310049, -120.36377982004406],
+    "radius": 40,
+    "character": "wolfie",
+    "portrait": "/fytrup-alpha2/characters/wolfie_neutral.png",
+    "intro": "Intramurals, rec classes, and campus activity."
+  },
+  {
+    "id": "nph",
+    "name": "Chappell Family Building for Nursing & Population Health",
+    "coords": [50.669821042288234, -120.36186593487231],
+    "radius": 40,
+    "character": "wolfie",
+    "portrait": "/fytrup-alpha2/characters/wolfie_neutral.png",
+    "intro": "Where TRU nursing students learn through simulation."
+  },
+  {
+    "id": "culinaryCentre",
+    "name": "Culinary Arts Training Centre",
+    "coords": [50.670058865434555, -120.36272730572743],
+    "radius": 40,
+    "character": "wolfie",
+    "portrait": "/fytrup-alpha2/characters/wolfie_neutral.png",
+    "intro": "Scratch Café aromas drifting your way..."
+  },
+  {
+    "id": "retailMeatStore",
+    "name": "Retail Meat Store (Meat-Cutting Program)",
+    "coords": [50.669680531924435, -120.36308386179974],
+    "radius": 40,
+    "character": "wolfie",
+    "portrait": "/fytrup-alpha2/characters/wolfie_neutral.png",
+    "intro": "One-of-a-kind in BC—meat cutting taught hands-on."
+  },
+  {
+    "id": "oldMain",
+    "name": "Old Main (OM) – Student Street",
+    "coords": [50.67123490745108, -120.36344776954364],
+    "radius": 40,
+    "character": "wolfie",
+    "portrait": "/fytrup-alpha2/characters/wolfie_neutral.png",
+    "intro": "Advising, awards, enrollment, and academic crossroads."
+  },
+  {
+    "id": "campusCommons",
+    "name": "Campus Commons",
+    "coords": [50.67241883084885, -120.36502592837925],
+    "radius": 40,
+    "character": "wolfie",
+    "portrait": "/fytrup-alpha2/characters/wolfie_neutral.png",
+    "intro": "Events, movement, and wide-open campus life."
+  },
+  {
+    "id": "internationalBuilding",
+    "name": "International Building (IB)",
+    "coords": [50.67223294995966, -120.36386681482455],
+    "radius": 40,
+    "character": "wolfie",
+    "portrait": "/fytrup-alpha2/characters/wolfie_neutral.png",
+    "intro": "Study Abroad, TRU World, and a global campus community."
+  },
+  {
+    "id": "artsEducation",
+    "name": "Arts & Education (AE) Building",
+    "coords": [50.67318467176194, -120.36459463031238],
+    "radius": 40,
+    "character": "wolfie",
+    "portrait": "/fytrup-alpha2/characters/wolfie_neutral.png",
+    "intro": "Humanities, teaching, languages, and creative inquiry."
+  },
+  {
+    "id": "lookout",
+    "name": "Kamloops Lookout",
+    "coords": [50.6735662771803, -120.36393665570465],
+    "radius": 40,
+    "character": "wolfie",
+    "portrait": "/fytrup-alpha2/characters/wolfie_neutral.png",
+    "intro": "Where the rivers meet—your best panoramic moment."
+  },
+  {
+    "id": "campusActivityCentre",
+    "name": "Campus Activity Centre (CAC)",
+    "coords": [50.6725442393673, -120.3660135029301],
+    "radius": 40,
+    "character": "wolfie",
+    "portrait": "/fytrup-alpha2/characters/wolfie_neutral.png",
+    "intro": "Bookstore, food, TRUSU—your indoor campus hub."
+  },
+  {
+    "id": "tradesTechCentre",
+    "name": "Trades & Technology Centre (TT)",
+    "coords": [50.67172781613885, -120.3679580200668],
+    "radius": 40,
+    "character": "wolfie",
+    "portrait": "/fytrup-alpha2/characters/wolfie_neutral.png",
+    "intro": "Hands-on trades training in fully equipped shops."
+  },
+  {
+    "id": "vtec",
+    "name": "Veterinary Technology (VTEC)",
+    "coords": [50.67100238049488, -120.37090726565472],
+    "radius": 40,
+    "character": "wolfie",
+    "portrait": "/fytrup-alpha2/characters/wolfie_neutral.png",
+    "intro": "Animal health labs and vet-tech training."
+  },
+  {
+    "id": "houseOfLearning",
+    "name": "Brown Family House of Learning (HOL)",
+    "coords": [50.67204779633193, -120.36499407113573],
+    "radius": 40,
+    "character": "wolfie",
+    "portrait": "/fytrup-alpha2/characters/wolfie_neutral.png",
+    "intro": "Library, study floors, and Sk’elep watching over campus."
+  },
+  {
+    "id": "horticultureGardens",
+    "name": "Horticulture Gardens",
+    "coords": [50.67245814073066, -120.36711562980108],
+    "radius": 40,
+    "character": "wolfie",
+    "portrait": "/fytrup-alpha2/characters/wolfie_neutral.png",
+    "intro": "Living labs for horticulture, ecology, and plant studies."
+  },
+  {
+    "id": "careerExperiential",
+    "name": "Career & Experiential Learning",
+    "coords": [50.670344254973486, -120.3616482892282],
+    "radius": 40,
+    "character": "wolfie",
+    "portrait": "/fytrup-alpha2/characters/wolfie_neutral.png",
+    "intro": "Co-op, jobs, volunteering—your next step starts here."
+  },
+  {
+    "id": "gaglardiSobe",
+    "name": "Bob Gaglardi School of Business & Economics (BB)",
+    "coords": [50.67076421629197, -120.36296975638686],
+    "radius": 40,
+    "character": "wolfie",
+    "portrait": "/fytrup-alpha2/characters/wolfie_neutral.png",
+    "intro": "Business, economics, entrepreneurship—your ideas scale here."
+  },
+  {
+    "id": "truLaw",
+    "name": "TRU Law Building",
+    "coords": [50.671101197919654, -120.36164213102707],
+    "radius": 40,
+    "character": "wolfie",
+    "portrait": "/fytrup-alpha2/characters/wolfie_neutral.png",
+    "intro": "Home of the Juris Doctor—legal study and advocacy."
+  },
+  {
+    "id": "allMyRelations",
+    "name": "Indigenous Education & All My Relations Research Centre",
+    "coords": [50.67023092899578, -120.36164796816838],
+    "radius": 40,
+    "character": "wolfie",
+    "portrait": "/fytrup-alpha2/characters/wolfie_neutral.png",
+    "intro": "Indigenous scholarship, community research, and shared space."
+  }
+]
